@@ -1,6 +1,6 @@
 # The Horrors Evolving Yet
 
-[![Downloads](https://img.shields.io/github/downloads/seeedl1ng/THEY/total?logo=github&label=Downloads)](https://github.com/seeedl1ng/THEY/releases)
+[![Downloads](https://img.shields.io/github/downloads/THEY-modpack/THEY/total?logo=github&label=Downloads)](https://github.com/THEY-modpack/THEY/releases)
 
 <details>
   <summary>🇺🇸 EN</summary>
@@ -9,7 +9,7 @@
 
 A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Scape and Run: Parasites
 
-**Need help? Check the [Wiki](https://github.com/seeedl1ng/THEY/wiki/FAQ-EN)!**
+**Need help? Check the [Wiki](https://github.com/THEY-modpack/THEY/wiki/FAQ-EN)!**
 
 <details>
  <summary>
@@ -19,7 +19,7 @@ A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Sca
  </summary>
 
 1) Install Java 25 or newer (Java 26 JRE is recommended for the best performance) [Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter)
-2) Download modpack from [Releases](https://github.com/seeedl1ng/THEY/releases)
+2) Download modpack from [Releases](https://github.com/THEY-modpack/THEY/releases)
 
 >default - for launchers such as Prism
 >
@@ -31,7 +31,7 @@ A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Sca
 
 ---
 
-Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng/THEY/tree/main/server#readme)
+Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/THEY-modpack/THEY/tree/main/server#readme)
 
 </details>
 
@@ -62,7 +62,7 @@ Development of the modpack started around March 2023
 Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание
 В основе лежит мод Scape and Run: Parasites
 
-**Возникли вопросы? У нас есть [Вики](https://github.com/seeedl1ng/THEY/wiki/FAQ-RU)!**
+**Возникли вопросы? У нас есть [Вики](https://github.com/THEY-modpack/THEY/wiki/FAQ-RU)!**
 <details>
  <summary>
 
@@ -71,7 +71,7 @@ Development of the modpack started around March 2023
  </summary>
 
 1. Необходима Java 25, но для большей производительности используйте Java 26 JRE,  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
-2. Скачать сборку из [Releases](https://github.com/seeedl1ng/THEY/releases)
+2. Скачать сборку из [Releases](https://github.com/THEY-modpack/THEY/releases)
 
 >обычная - для лаунчеров наподобие Prism
 >
@@ -83,7 +83,7 @@ Development of the modpack started around March 2023
 
 ---
 
-Сборка для сервера: [THEY (Dedicated SERVER)](https://github.com/seeedl1ng/THEY/tree/main/server#readme)
+Сборка для сервера: [THEY (Dedicated SERVER)](https://github.com/THEY-modpack/THEY/tree/main/server#readme)
 
  </details>
 
