@@ -38,13 +38,13 @@ Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/THEY-modp
 ---
 
 ### System Requirements
-**MINIMUM:**                             **RECOMMENDED:**
+**MINIMUM:**                                         **RECOMMENDED:**
 
-**MEMORY:** 2 GB RAM              4.5 GB RAM
+**MEMORY:** `2 GB RAM`                          `4.5 GB RAM`
 
-**GRAPHICS:** support GL3.3      support GL4.5
+**GRAPHICS:** `support GL3.3`                `support GL4.5`
 
- 
+**STORAGE:** `3 GB available space`      `3 GB available space`
 
  
 
@@ -92,10 +92,11 @@ Development of the modpack started around March 2023
 ### Системные требования
 **МИНИМАЛЬНЫЕ:**                                  **РЕКОМЕНДОВАННЫЕ:**
 
-**ОПЕРАТИВНАЯ ПАМЯТЬ:** 2 GB ОЗУ      4.5 GB ОЗУ
+**ОПЕРАТИВНАЯ ПАМЯТЬ:** `2 GB ОЗУ`      `4.5 GB ОЗУ`
 
-**ВИДЕОКАРТА:** support GL3.3                 support GL4.5
+**ВИДЕОКАРТА:** `support GL3.3`                `support GL4.5`
 
+**МЕСТО НА ДИСКЕ:** `3 GB`                        `3 GB`
  
 
  
