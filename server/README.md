@@ -1,6 +1,6 @@
 # The Horrors Evolving Yet | *(Dedicated SERVER)*
 
-[![Downloads](https://img.shields.io/github/downloads/seeedl1ng/THEY/total?logo=github&label=Downloads)](https://github.com/seeedl1ng/THEY/releases)
+[![Downloads](https://img.shields.io/github/downloads/THEY-modpack/THEY/total?logo=github&label=Downloads)](https://github.com/THEY-modpack/THEY/releases)
 
 <details>
   <summary>🇺🇸 EN</summary>
@@ -9,8 +9,22 @@ This page is for the dedicated server version of the modpack.
 
 # Server Installation
 
+<details>
+ <summary>
+
+### Free hosting (https://play.hosting), or any other
+
+ </summary>
+</details>
+
+<details>
+ <summary>
+
 ### If you have a second PC
-1. Download the build with the **"serv"** suffix from the [Releases](https://github.com/seeedl1ng/THEY/releases), or Beta version using PowerShell:
+
+</summary>
+
+1. Download the build with the **"serv"** suffix from the [Releases](https://github.com/THEY-modpack/THEY/releases), or Beta version using PowerShell:
 ```
 
 ```
@@ -40,10 +54,6 @@ This page is for the dedicated server version of the modpack.
  
 
 * `-XX:+UseZGC` — Enables the Z Garbage Collector. Recommended for servers with 4 GB or more of allocated memory
-
- 
-
-* `-XX:+UseLargePages` — Enables [Large Pages](https://docs.oracle.com/en/java/javase/26/docs/specs/man/java.html#large-pages) support (Disabled by default on Windows)
 
  
 
@@ -79,6 +89,9 @@ This page is for the dedicated server version of the modpack.
 > To stop the server, type `stop` in the server console
 
  
+</details>
+
+---
 
 </details>
 
@@ -89,9 +102,22 @@ This page is for the dedicated server version of the modpack.
 
 # Установка на сервер
 
-### Если у вас есть 2-й комп
+<details>
+ <summary>
 
-1. Скачать сборку с суффиксом **"serv"** из [Релизов](https://github.com/seeedl1ng/THEY/releases) или Бета версию через Powershell:
+### Бесплатный хостинг (https://play.hosting), или любой другой
+
+ </summary>
+</details>
+
+<details>
+ <summary>
+
+  ### Если у вас есть 2-й комп
+
+ </summary>
+
+1. Скачать сборку с суффиксом **"serv"** из [Релизов](https://github.com/THEY-modpack/THEY/releases) или Бета версию через Powershell:
 ```
 
 ```
@@ -124,15 +150,11 @@ This page is for the dedicated server version of the modpack.
 
  
 
-* `-XX:+UseLargePages` - Поддержка [Больших Страниц](https://docs.oracle.com/en/java/javase/26/docs/specs/man/java.html#large-pages) (По умолчанию отключено в Windows)
-
- 
-
 * `-XX:+UseCompactObjectHeaders` - Уменьшает размер заголовков объектов в памяти (В будущих версиях ожидается, что она будет включена по умолчанию)
 
  
 
-* `-XX:+PerfDisableSharedMem` - Отключает старый `hsperfdata` интерфейс JVM, используемый старыми диагностическими инструментами (VisualVM/jstat). Лучше используйте JFR или Flare
+* `-XX:+PerfDisableSharedMem` - Отключает старый `hsperfdata` интерфейс JVM, используемый старыми диагностическими инструментами (VisualVM/jstat). Лучше используйте Flare
 
  
 
@@ -159,6 +181,9 @@ This page is for the dedicated server version of the modpack.
 > Чтобы выключить сервер, введите `stop` в консоли
 
  
+</details>
+
+---
 
 </details>
 
