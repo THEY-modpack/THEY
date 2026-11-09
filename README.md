@@ -30,7 +30,7 @@ The Scape and Run: Parasites mod plays a major role here.
    > `^serv` — version for dedicated servers
 
 3. Drag the downloaded `.zip` file into the launcher window and click `OK`
-4. Right-click the modpack → `Edit...` → `Settings` → `Java` → `☐ Java installation` → `Detect` → `25.0.x` → `OK`
+4. Right-click the modpack → `Edit...` → `Settings` → `Java` → `☐ Java installation` → `Detect` → 25.0.x → `OK`
 5. Launch the modpack. On the first launch, wait for all mods and resource packs to download and the game to start
 
 ---
