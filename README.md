@@ -2,108 +2,147 @@
 
 [![Downloads](https://img.shields.io/github/downloads/THEY-modpack/THEY/total?logo=github&label=Downloads)](https://github.com/THEY-modpack/THEY/releases)
 
-<details>
-  <summary>🇺🇸 EN</summary>
-  
-*Questions, feature requests, and bug reports: https://github.com/seeedl1ng/SRP5361/issues*
+ <details>
+<summary>🇺🇸 EN</summary>
 
-A Minecraft 1.12.2 modpack focused on survival and realism, built around mod Scape and Run: Parasites
+*Questions, suggestions, and bug reports: https://github.com/THEY-modpack/THEY/issues*
 
-**Need help? Check the [Wiki](https://github.com/THEY-modpack/THEY/wiki/FAQ-EN)!**
+THEY is a Minecraft 1.12.2 modpack focused on realistic and challenging survival.<br>
+The Scape and Run: Parasites mod plays a major role here.
+
+**Have any questions? Check out our [Wiki](https://github.com/THEY-modpack/THEY/wiki/FAQ-EN)!**
 
 <details>
  <summary>
 
-   ## Installation
+## Installation
 
  </summary>
 
-1) Install Java 25 or newer (Java 26 JRE is recommended for the best performance) [Download Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter)
-2) Download modpack from [Releases](https://github.com/THEY-modpack/THEY/releases)
+1. **Install Java 25**
 
->default - for launchers such as Prism
->
->^serv - for dedicated server
+  In Prism Launcher → Open top `Settings` → `Java` → `Installations` → `Download` → `Adoptium` → `Java 25`, then download the latest version.
 
-3. Drag the downloaded ZIP file into your launcher window, click "Done"
-4. Edit Instance → Settings → Java → Java Installation → Detect Select → Java 26 and confirm
-5. Play
+2. **Download the modpack from [Releases](https://github.com/THEY-modpack/THEY/releases)**
+
+   > `standard` — client version for launchers such as Prism Launcher
+   >
+   > `^serv` — version for dedicated servers
+
+3. Drag the downloaded `.zip` file into the launcher window and click `OK`
+4. Right-click the modpack → `Edit...` → `Settings` → `Java` → `☐ Java installation` → `Detect` → `25.0.x` → `OK`
+5. Launch the modpack. On the first launch, wait for all mods and resource packs to download and the game to start
 
 ---
 
-Dedicated server version: [THEY (Dedicated SERVER)](https://github.com/THEY-modpack/THEY/tree/main/server#readme)
+**Server installation: [THEY (Dedicated SERVER)](https://github.com/THEY-modpack/THEY/blob/main/server/README.md)**
 
 </details>
 
 ---
 
-### System Requirements
-**MINIMUM:**                                         **RECOMMENDED:**
+<table>
+  <tr>
+    <th>Parameter</th>
+    <th align="center">Minimum</th>
+    <th align="center">Recommended</th>
+  </tr>
+  <tr>
+    <td>Allocated RAM</td>
+    <td align="center">2 GB</td>
+    <td align="center">4.5 GB</td>
+  </tr>
+  <tr>
+    <td>Graphics card (OpenGL support)</td>
+    <td align="center">3.3</td>
+    <td align="center">4.6</td>
+  </tr>
+  <tr>
+    <td>Disk space</td>
+    <td colspan="2" align="center">3 GB</td>
+  </tr>
+</table>
+<br>
 
-**MEMORY:** `2 GB RAM`                          `4.5 GB RAM`
+<br>
 
-**GRAPHICS:** `support GL3.3`                `support GL4.5`
+**The more, the merrier! Invite a friend and enjoy the modpack even more 😋**
 
-**STORAGE:** `3 GB available space`      `3 GB available space`
+Modpack development has been ongoing since March 2023.
 
- 
-
-**Playing with friends is highly recommended**😋
-
-Development of the modpack started around March 2023
+---
 
 </details>
 
 <details>
   <summary>🇷🇺 RU</summary>
   
-*Вопросы, предложения и сообщения об ошибках: https://github.com/seeedl1ng/SRP5361/issues*
+*Вопросы, предложения и сообщения об ошибках: https://github.com/THEY-modpack/THEY/issues*
 
-Сборка для Minecraft 1.12.2, с упором на реалистичность и выживание
-В основе лежит мод Scape and Run: Parasites
+THEY — сборка для Minecraft 1.12.2, ориентированная на реалистичное и напряжённое выживание.<br>
+Мод Scape and Run: Parasites здесь играет главную роль.
 
 **Возникли вопросы? У нас есть [Вики](https://github.com/THEY-modpack/THEY/wiki/FAQ-RU)!**
-<details>
- <summary>
 
-   ## Установка
+ <details>
+  <summary>
 
- </summary>
+## Установка
 
-1. Необходима Java 25, но для большей производительности используйте Java 26 JRE,  ([Скачать Java Adoptium](https://adoptium.net/temurin/releases/?os=any&arch=any&package=jre&version=26&mode=filter))
+  </summary>
+
+1. **Установите Java 25**
+
+  В Prism Launcher → Сверху `Параметры...` → `Java` → `Установки` → `Скачать` → `Adoptium` `Java 25` и скачайте последнюю версию
+
 2. Скачать сборку из [Releases](https://github.com/THEY-modpack/THEY/releases)
 
->обычная - для лаунчеров наподобие Prism
+>обычная — для лаунчеров наподобие Prism Launcher 
 >
->^serv - версия для сервера
+>^serv — версия для выделенного сервера
 
-3. Перетащите скачанный .zip в окно лаунчера, нажать "Готово"
-4. ПКМ по сборке → Изменить... → Параметры → Java → Установка Java → Найти → 26 → Ок
-5. Играть
+3. Перетащите скачанный .zip в окно лаунчера, нажмите `ОК`
+4. ПКМ по сборке → `Изменить...` → `Параметры` → `Java` → `☐ Установка Java` → `Найти` → 25.0.x → `ОК`
+5. Запустите сборку. При первом запуске дождитесь скачивания всех модов/ресурспаков и запуска игры
 
 ---
 
-Сборка для сервера: [THEY (Dedicated SERVER)](https://github.com/THEY-modpack/THEY/tree/main/server#readme)
+**Сборка для сервера: [THEY (Dedicated SERVER)](https://github.com/THEY-modpack/THEY/blob/main/server/README.md)**
 
  </details>
 
 ---
 
-### Системные требования
-**МИНИМАЛЬНЫЕ:**                                  **РЕКОМЕНДОВАННЫЕ:**
+<table>
+  <tr>
+    <th>Параметр</th>
+    <th align="center">Минимальные</th>
+    <th align="center">Рекомендуемые</th>
+  </tr>
+  <tr>
+    <td>Выделенная оперативная память</td>
+    <td align="center">2 ГБ</td>
+    <td align="center">4,5 ГБ</td>
+  </tr>
+  <tr>
+    <td>Видеокарта (поддержка OpenGL)</td>
+    <td align="center">3.3</td>
+    <td align="center">4.6</td>
+  </tr>
+  <tr>
+    <td>Место на диске</td>
+    <td colspan="2" align="center">3 ГБ</td>
+  </tr>
+</table>
+<br>
 
-**ОПЕРАТИВНАЯ ПАМЯТЬ:** `2 GB ОЗУ`      `4.5 GB ОЗУ`
-
-**ВИДЕОКАРТА:** `support GL3.3`                `support GL4.5`
-
-**МЕСТО НА ДИСКЕ:** `3 GB`                        `3 GB`
- 
-
- 
+<br>
 
 **Чем больше, тем лучше! Позови своего друга, и ты получишь больше удовольствия от сборки😋**
 
-Разработка сборки ведётся с марта 2023 года
+Разработка сборки ведётся с марта 2023 года.
+
+---
 
 </details>
 
@@ -112,4 +151,4 @@ Development of the modpack started around March 2023
 <img width="1920" height="1080" alt="2025-12-07_15 56 53" src="https://github.com/user-attachments/assets/21292af2-6b40-4a53-b781-6e4d1cc79dbf" />
 <img width="1920" height="1057" alt="2025-03-26_21 53 42downscale" src="https://github.com/user-attachments/assets/9bcdfdfa-820f-4b80-9b08-a00ea2fcbfb3" />
 
->*They were already here. And they had built nests... ~nocubeyt*
+>*They were already here. And they had built nests... ~NoCube*
