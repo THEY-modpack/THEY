@@ -1,0 +1,10 @@
+# Arguments here are passed to the JVM, one per line.
+# The values -Xms and -Xmx are already set in start.bat
+-XX:+UseZGC
+-XX:+DisableExplicitGC
+-XX:+UseCompactObjectHeaders
+-XX:-UsePerfData
+--enable-native-access=ALL-UNNAMED
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/sun.nio.ch=ALL-UNNAMED
+-Dlog4j.configurationFile=config/log4j2.xml
